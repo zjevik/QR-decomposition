@@ -24,4 +24,4 @@ Project structure
   
   run_serial.sh
   
-    - these scripts contains examples how to run and they run the programs to find the QR decomposition of a matrix  
+    - these scripts contain examples on how to run; they run the programs to find the QR decomposition of a matrix  
